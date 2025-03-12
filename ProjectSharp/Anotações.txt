@@ -1,0 +1,8 @@
+Em c# e XAML para criar um projeto no VSCode basta seguir :
+
+dotnet new wpf -o "C:\Users\SeuUsuario\Documentos\Projetos\NomeDoProjeto"
+
+e depois
+
+dotnet new wpf -o "~/Documentos/Projetos/NomeDoProjeto"
+
